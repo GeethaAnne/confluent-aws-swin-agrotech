@@ -1,1 +1,0 @@
-# confluent-aws-swin-agrotech
